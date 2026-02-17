@@ -13,6 +13,13 @@ The dashboard enables users to analyze:
 
 ---
 
+## Data Source
+
+Game-level NFL data was obtained from the public **nflverse** repository on GitHub.
+The dataset was then filtered and transformed in Excel to isolate **Dallas Cowboys games (1999–2025)** and to engineer analytical features used in the Tableau dashboard.
+
+---
+
 ## Tools Used
 
 * **Excel** — data cleaning, feature engineering, and metric creation
