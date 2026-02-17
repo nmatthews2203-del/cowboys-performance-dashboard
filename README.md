@@ -76,7 +76,5 @@ It serves as a portfolio piece for **data analytics and sports analytics opportu
 
 ## Author
 
-**Nicholas Matthews**
-Business Analytics Student — Farmingdale State College
-Aspiring **Data Analyst / Sports Analytics Professional**
+**Nicholas Matthews** — Business Analytics Student — Farmingdale State College — Aspiring **Data Analyst / Sports Analytics Professional**
 
