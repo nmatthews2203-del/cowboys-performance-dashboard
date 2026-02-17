@@ -45,9 +45,10 @@ The dataset was then filtered and transformed in Excel to isolate **Dallas Cowbo
 * Best winning percentage against the Cleveland Browns, worst winning percentage against the Denver Broncos.
 * Significant struggle in away games.
 
+---
+
 ## Dashboard Preview
 <img width="1392" height="641" alt="Screenshot 2026-02-16 at 11 19 25 AM" src="https://github.com/user-attachments/assets/0b37a33d-6e2c-49af-a038-bed15f0bccbb" />
-
 
 ---
 
